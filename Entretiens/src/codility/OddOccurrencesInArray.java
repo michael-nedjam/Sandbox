@@ -1,3 +1,5 @@
+package codility;
+
 import javafx.collections.transformation.SortedList;
 
 import java.util.SortedSet;
