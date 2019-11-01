@@ -2,20 +2,20 @@ package codility;
 
 public class TapeEquilibrium {
 
-    public static int solution(int[] H) {
+    public static int solution(int[] A) {
         // write your code in Java SE 8
         int begin = 0;
         int end = 0;
         int i = 0;
-        int j = H.length -1;
+        int j = A.length -1;
 
         while(i<=j){
-            if(Math.abs((begin + H[i]) - end) <=
-                    Math.abs((end + H[j]) - begin) ){
-                begin+=H[i];
+            if(Math.abs((begin + A[i]) - end) <
+                    Math.abs((end + A[j]) - begin) ){
+                begin+=A[i];
                 i++;
             } else {
-                end+=H[j];
+                end+=A[j];
                 j--;
             }
         }
@@ -25,7 +25,7 @@ public class TapeEquilibrium {
 
     public static void main (String[] args) {
         // write your code in Java SE 8
-        int result = solution(new int[] {3,1,2,4,3});
+        int result = solution(new int[] {1000, -1000});
         System.out.println("Solution fond " + result);
     }
 }
