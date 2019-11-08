@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b54781b-d650-4c31-a5f2-cbde5a8dd11e" name="Default Changelist" comment="Add solution RepeatedString @Hackerrank">
-      <change afterPath="$PROJECT_DIR$/Entretiens/src/codility/MaxDoubleSliceSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Entretiens/src/codility/Peaks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Entretiens/src/codility/test/MaxDoubleSliceSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Entretiens/src/codility/test/PeaksTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6b54781b-d650-4c31-a5f2-cbde5a8dd11e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +168,7 @@
       <workItem from="1572436042097" duration="29295000" />
       <workItem from="1572877416002" duration="7599000" />
       <workItem from="1573033802543" duration="162000" />
-      <workItem from="1573033978992" duration="16937000" />
+      <workItem from="1573033978992" duration="17761000" />
     </task>
     <task id="LOCAL-00001" summary="Solve BinaryGap challenge">
       <created>1572296228667</created>
@@ -295,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573057056122</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add solution RepeatedString @Hackerrank">
+      <created>1573075565765</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1573075565765</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,11 +342,6 @@
           <url>file://$PROJECT_DIR$/Entretiens/src/hackerrank/NewYearChaos.java</url>
           <line>10</line>
           <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Entretiens/src/codility/Peaks.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
