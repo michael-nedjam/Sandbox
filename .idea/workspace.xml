@@ -1,8 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b54781b-d650-4c31-a5f2-cbde5a8dd11e" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="6b54781b-d650-4c31-a5f2-cbde5a8dd11e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Entretiens/src/mars2021/BinaryGap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entretiens/src/mars2021/CyclicRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entretiens/src/mars2021/FrogJmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entretiens/src/mars2021/FrogRiverOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entretiens/src/mars2021/MaxCounters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entretiens/src/mars2021/OddOccurrencesInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entretiens/src/mars2021/PermMissingElem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entretiens/src/mars2021/TapeEquilibrium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entretiens/Entretiens.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Entretiens/Entretiens.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entretiens/src/codility/OddOccurrencesInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Entretiens/src/codility/OddOccurrencesInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/Arc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/Arc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/META-INF/Entretiens.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/PatternChaser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/PatternChaser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/PrimeTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/PrimeTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/RunLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/RunLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/ShortestPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/ShortestPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codewars/BitCounting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codewars/BitCounting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codewars/Dubstep.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codewars/Dubstep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codewars/HishestLowest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codewars/HishestLowest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codewars/TriangleTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codewars/TriangleTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codewars/tests/BitCountingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codewars/tests/BitCountingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codewars/tests/HighestLowestTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codewars/tests/HighestLowestTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codewars/tests/SongTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codewars/tests/SongTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codewars/tests/TriangleTesterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codewars/tests/TriangleTesterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/BinaryGap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/BinaryGap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/Brackets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/Brackets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/Dominator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/Dominator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/GenomicRangeQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/GenomicRangeQuery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/MaxDoubleSliceSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/MaxDoubleSliceSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/MaxProfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/MaxProfit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/MaximunSlice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/MaximunSlice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/MinAvgTwoSlice$Slice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/MinAvgTwoSlice$Slice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/MinAvgTwoSlice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/MinAvgTwoSlice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/OddOccurrencesInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/OddOccurrencesInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/PassingCars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/PassingCars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/Peaks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/Peaks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/PermCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/PermCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/StoneWall.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/StoneWall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/TapeEquilibrium.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/TapeEquilibrium.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/test/MaxDoubleSliceSumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/test/MaxDoubleSliceSumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/test/MaxProfitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/test/MaxProfitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/test/MaximunSliceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/test/MaximunSliceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/codility/test/PeaksTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/codility/test/PeaksTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/hackerrank/CountingValleys.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/hackerrank/CountingValleys.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/hackerrank/DynamicArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/hackerrank/DynamicArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/hackerrank/JumpingOnCLouds.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/hackerrank/JumpingOnCLouds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/hackerrank/NewYearChaos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/hackerrank/NewYearChaos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/hackerrank/RepeatedString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/hackerrank/RepeatedString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/hackerrank/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/hackerrank/Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Entretiens/hackerrank/SockMerchant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Entretiens/hackerrank/SockMerchant.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,19 +77,33 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1SqBVCO1Rq33voPETVB3RwyjYPf" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Entretiens/src/hackerrank" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -44,116 +111,104 @@
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Entretiens/src/hackerrank" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="codewars" />
       <recent name="codility" />
       <recent name="hackerrank" />
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Entretiens/src/hackerrank" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.PeaksTest.test_CASE_example">
-    <configuration name="MaxDoubleSliceSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.FrogRiverOne">
+    <configuration name="FrogJmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mars2021.FrogJmp" />
       <module name="Entretiens" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codility.*" />
+          <option name="PATTERN" value="mars2021.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="codility.test" />
-      <option name="MAIN_CLASS_NAME" value="codility.test.MaxDoubleSliceSumTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrogRiverOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mars2021.FrogRiverOne" />
+      <module name="Entretiens" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mars2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddOccurrencesInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mars2021.OddOccurrencesInArray" />
+      <module name="Entretiens" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mars2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermMissingElem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mars2021.PermMissingElem" />
+      <module name="Entretiens" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mars2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TapeEquilibrium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mars2021.TapeEquilibrium" />
+      <module name="Entretiens" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mars2021.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximunSliceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Entretiens" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codility.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="codility.test" />
-      <option name="MAIN_CLASS_NAME" value="codility.test.MaximunSliceTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaximunSliceTest.test_CASE_demo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Entretiens" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codility.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="codility.test" />
-      <option name="MAIN_CLASS_NAME" value="codility.test.MaximunSliceTest" />
-      <option name="METHOD_NAME" value="test_CASE_demo" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PeaksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Entretiens" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codility.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="codility.test" />
-      <option name="MAIN_CLASS_NAME" value="codility.test.PeaksTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PeaksTest.test_CASE_example" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Entretiens" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codility.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="codility.test" />
-      <option name="MAIN_CLASS_NAME" value="codility.test.PeaksTest" />
-      <option name="METHOD_NAME" value="test_CASE_example" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PeaksTest.test_CASE_example" />
-        <item itemvalue="JUnit.PeaksTest" />
-        <item itemvalue="JUnit.MaxDoubleSliceSumTest" />
-        <item itemvalue="JUnit.MaximunSliceTest.test_CASE_demo" />
-        <item itemvalue="JUnit.MaximunSliceTest" />
+        <item itemvalue="Application.FrogRiverOne" />
+        <item itemvalue="Application.TapeEquilibrium" />
+        <item itemvalue="Application.PermMissingElem" />
+        <item itemvalue="Application.FrogJmp" />
+        <item itemvalue="Application.OddOccurrencesInArray" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -169,6 +224,7 @@
       <workItem from="1572877416002" duration="7599000" />
       <workItem from="1573033802543" duration="162000" />
       <workItem from="1573033978992" duration="17761000" />
+      <workItem from="1614771906781" duration="13802000" />
     </task>
     <task id="LOCAL-00001" summary="Solve BinaryGap challenge">
       <created>1572296228667</created>
@@ -300,20 +356,19 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Solve BinaryGap challenge" />
@@ -342,6 +397,11 @@
           <url>file://$PROJECT_DIR$/Entretiens/src/hackerrank/NewYearChaos.java</url>
           <line>10</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Entretiens/src/mars2021/TapeEquilibrium.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

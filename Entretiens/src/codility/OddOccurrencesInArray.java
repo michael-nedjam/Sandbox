@@ -1,6 +1,5 @@
 package codility;
 
-import javafx.collections.transformation.SortedList;
 
 import java.util.HashSet;
 
